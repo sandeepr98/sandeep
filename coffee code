@@ -1,0 +1,16 @@
+#include<stdio.h>
+void main()
+{
+int x,p,y;
+scanf("%d",&x,&p);
+y=x;
+while(a>1)
+{
+int j=(d/100)*y;
+y=x-j;
+x+=y;
+}
+printf("%d",x);
+return 0;
+}
+
